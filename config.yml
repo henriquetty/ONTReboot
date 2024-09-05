@@ -1,0 +1,4 @@
+onuinfo:
+    model: hg
+delay:
+    curr: .500
